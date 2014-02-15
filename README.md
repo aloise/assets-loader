@@ -99,7 +99,7 @@ You can pass in your own closure compiler options when you are instantiating the
 
       PlayProject(...).settings(
         libraryDependencies += assetsLoader,
-        resolvers += assetLoaderReleases
+        resolvers += assetsLoaderReleases
       )
 
 
